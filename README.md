@@ -4,6 +4,12 @@ I work as an Engineering Manager, Team Lead and Sr. Front End Developer on [Comm
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rjturek/)](https://www.linkedin.com/in/rjturek/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rjturek)](https://twitter.com/rjturek)
-<a href="https://twitter.com/intent/follow?screen_name=rjturek"><img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter" alt="follow on Twitter"></a>
-<a href="http://www.rturek.com/"><img src="https://img.shields.io/badge/blog-rturek.com-orange" alt="my blog"></a>
-<a href="http://www.turek.works/"><img src="https://img.shields.io/badge/business-turek.works-orange" alt="my business"></a>
+<a href="https://twitter.com/intent/follow?screen_name=rjturek" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter" alt="follow on Twitter">
+</a>
+<a href="http://www.rturek.com/" target="_blank">
+  <img src="https://img.shields.io/badge/blog-rturek.com-orange" alt="my blog">
+</a>
+<a href="http://www.turek.works/" target="_blank">
+  <img src="https://img.shields.io/badge/business-turek.works-orange" alt="my business">
+</a>
