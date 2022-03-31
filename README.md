@@ -13,3 +13,6 @@ I work as an Engineering Manager, Team Lead and Sr. Front End Developer on [Comm
 <a href="http://www.turek.works/" target="_blank">
   <img src="https://img.shields.io/badge/business-turek.works-orange" alt="my business">
 </a>
+
+<!-- ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTurek&include_all_commits=true&count_private=true&show_icons=true&layout=compact&theme=gruvbox) -->
+<!-- ![Ryan's GitHub Languages](https://github-readme-stats-sabesansathananthan.vercel.app/api/top-langs/?username=RTurek&langs_count=10&layout=compact&theme=gruvbox) -->
