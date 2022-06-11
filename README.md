@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Ryan Turek](http://www.linkedin.com/in/rjturek/)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm [Ryan Turek](http://www.linkedin.com/in/rjturek/)!
 
 I work as an Engineering Manager, Team Lead and Sr. Front End Developer on [Community Rewards](https://www.realpage.com/apartment-marketing/loyalty-reputation/) at [@ModernMessage](https://github.com/modernmsg), a [RealPage](https://www.realpage.com/) company. I´m based in Wisconsin, USA and have been fully remote since 2017. Please feel free to connect with me using the links below!
 
