@@ -7,15 +7,15 @@ I work as an Engineering Manager, Team Lead and Sr. Front End Developer on [Comm
 <a href="https://twitter.com/intent/follow?screen_name=rjturek" target="_blank">
   <img src="https://img.shields.io/twitter/follow/rjturek?style=social&logo=twitter" alt="follow on Twitter">
 </a>
-<a href="http://www.rturek.com/" target="_blank">
+<!-- <a href="http://www.rturek.com/" target="_blank">
   <img src="https://img.shields.io/badge/blog-rturek.com-orange" alt="my blog">
-</a>
-<a href="https://exercism.org/profiles/RTurek" target="_blank">
+</a> -->
+<!-- <a href="https://exercism.org/profiles/RTurek" target="_blank">
   <img src="https://img.shields.io/badge/learning-exercism.org-orange" alt="my learning">
-</a>
-<a href="http://www.turek.works/" target="_blank">
+</a> -->
+<!-- <a href="http://www.turek.works/" target="_blank">
   <img src="https://img.shields.io/badge/business-turek.works-orange" alt="my business">
-</a>
+</a> -->
 
 <!-- ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTurek&include_all_commits=true&count_private=true&show_icons=true&layout=compact&theme=gruvbox) -->
 <!-- ![Ryan's GitHub Languages](https://github-readme-stats-sabesansathananthan.vercel.app/api/top-langs/?username=RTurek&langs_count=10&layout=compact&theme=gruvbox) -->
